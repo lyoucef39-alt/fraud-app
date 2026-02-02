@@ -1,3 +1,6 @@
+fastapi
+uvicorn[standard]
 pandas
 openpyxl
-streamlit
+python-multipart
+jinja2
